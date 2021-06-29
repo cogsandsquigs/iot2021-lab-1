@@ -1,3 +1,6 @@
+// this is the lab for lab 1, hello world
+// LED at pin D5 blinks at a freq. of 1hz
+
 SYSTEM_MODE(MANUAL);
 SYSTEM_THREAD(ENABLED);
 

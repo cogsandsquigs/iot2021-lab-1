@@ -4,9 +4,12 @@
 
 #include "Particle.h"
 #line 1 "/home/ianp/Documents/iot2021/labs/lab-1/src/lab-1.ino"
+// this is the lab for lab 1, hello world
+// LED at pin D5 blinks at a freq. of 1hz
+
 void setup();
 void loop();
-#line 1 "/home/ianp/Documents/iot2021/labs/lab-1/src/lab-1.ino"
+#line 4 "/home/ianp/Documents/iot2021/labs/lab-1/src/lab-1.ino"
 SYSTEM_MODE(MANUAL);
 SYSTEM_THREAD(ENABLED);
 
